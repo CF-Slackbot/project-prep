@@ -6,7 +6,7 @@
 
 - [Project Prep #1 - Team Agreement](team-agreement.md)
 - [Project Prep - Repo](https://github.com/CF-Slackbot/slackbot)
-- [Project Prep - PM Tool](https://xyz.com)
+- [Project Prep - PM Tool](https://github.com/CF-Slackbot/slackbot/projects/1)
 - [Project Prep - Software Requirements](requirements.md)
 
 ### Wireframe
