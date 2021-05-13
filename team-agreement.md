@@ -2,10 +2,10 @@
 
 ## Team
 
-Ellis Yoo
-Lydia Minehan-Tubic
-Fizzo Pannosch
-Audrey Patterson
+- Ellis Yoo
+- Lydia Minehan-Tubic
+- Fizzo Pannosch
+- Audrey Patterson
 
 ## Cooperation Plan
 
