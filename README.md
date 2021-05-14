@@ -11,7 +11,7 @@
 
 ### User Story
 
-- [User stories](https://github.com/CF-Slackbot/slackbot/projects/1)
+- [User stories](https://github.com/CF-Slackbot/slackbot/projects/1#column-14301194)
 
 ### Wireframe
 
