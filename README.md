@@ -9,6 +9,10 @@
 - [Project Prep - PM Tool](https://github.com/CF-Slackbot/slackbot/projects/1)
 - [Project Prep - Software Requirements](requirements.md)
 
+### User Story
+
+- [User stories](https://github.com/CF-Slackbot/slackbot/projects/1)
+
 ### Wireframe
 
 ### Domain Modeling
