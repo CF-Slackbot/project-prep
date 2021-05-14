@@ -13,8 +13,6 @@
 
 - [User stories](https://github.com/CF-Slackbot/slackbot/projects/1#column-14301194)
 
-### Wireframe
-
 ### Domain Modeling
 
 ![UML](slackbot.jpg)
