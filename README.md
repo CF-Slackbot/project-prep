@@ -15,4 +15,4 @@
 
 ### Domain Modeling
 
-![UML](slackbot.jpg)
+![UML](slackbot-uml.jpg)
